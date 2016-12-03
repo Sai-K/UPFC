@@ -22,3 +22,5 @@ Or else you can simply [Watch](https://github.com/Sai-K/UPFC/subscription):eyes:
 
 #Downloads
 >:link: [Octave](https://www.gnu.org/software/octave/)
+
+>:link: [Forge signal package](https://octave.sourceforge.io/control/index.html)
